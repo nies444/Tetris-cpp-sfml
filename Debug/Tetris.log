@@ -1,0 +1,96 @@
+﻿  Tetris.cpp
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(183,1): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(222,46): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(224,46): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(318,41): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(319,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(323,95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(323,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(329,41): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(330,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(334,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(334,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(355,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(397,41): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(398,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(401,41): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(402,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(425,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(440,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(448,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(449,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(465,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(466,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(468,77): warning C4018: >=: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(470,77): warning C4018: >=: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(474,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(480,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(481,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(487,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(494,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(495,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(509,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(510,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(514,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(515,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(519,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(520,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(654,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(655,33): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(669,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(707,39): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(708,43): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(712,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(712,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(726,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(727,41): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(757,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(766,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(788,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(794,37): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(810,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(816,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(839,59): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(988,84): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(988,52): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(992,95): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(992,64): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1011,74): warning C4244: аргумент: преобразование "const unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1011,53): warning C4244: аргумент: преобразование "const unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1016,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1018,39): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1019,43): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1023,91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1023,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1222,47): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1225,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1232,55): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1250,59): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1282,47): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1300,47): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1301,51): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1304,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1305,49): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1309,45): warning C4018: <: несоответствие типов со знаком и без знака
+F:\Other\Games\VS compilied\Tetris\Tetris\Tetris.cpp(1310,49): warning C4018: <: несоответствие типов со знаком и без знака
+  Tetris.vcxproj -> F:\Other\Games\VS compilied\Tetris\Debug\Tetris.exe
